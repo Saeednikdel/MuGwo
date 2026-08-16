@@ -65,8 +65,8 @@ MuMain.py (Main entry point)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mugwo-wsn-deployment.git
-cd mugwo-wsn-deployment
+git clone https://github.com/Saeednikdel/MuGwo.git
+cd MuGwo
 ```
 
 2. Install dependencies:
